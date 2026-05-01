@@ -1,0 +1,20 @@
+# ---------- macOS ----------
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# ---------- Apple Pages ----------
+*.pages-tef
+.~lock.*
+
+# ---------- Sketch ----------
+*.sketch-recovery/
+
+# ---------- General noise ----------
+*.tmp
+*.bak
+*.swp
+Thumbs.db
